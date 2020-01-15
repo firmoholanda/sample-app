@@ -1,13 +1,20 @@
 source 'https://rubygems.org'
 
-gem 'rails',        '5.1.6'
-gem 'puma',         '3.9.1'
-gem 'sass-rails',   '5.0.6'
+ruby '2.5.7'
+
+
+gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
+gem 'puma', '~> 4.1'
+gem 'sass-rails', '>= 6'
+gem 'webpacker', '~> 4.0'
+gem 'turbolinks', '~> 5'
+gem 'jbuilder', '~> 2.7'
+
 gem 'uglifier',     '3.2.0'
 gem 'coffee-rails', '4.2.2'
 gem 'jquery-rails', '4.3.1'
-gem 'turbolinks',   '5.0.1'
-gem 'jbuilder',     '2.7.0'
+
+
 
 group :development, :test do
   gem 'sqlite3', '1.3.13'
@@ -22,7 +29,7 @@ group :development do
 end
 
 group :test do
-  gem 'rails-controller-testing', '1.0.2'
+  gem 'rails-controller-testing', '1.0.4'
   gem 'minitest',                 '5.10.3'
   gem 'minitest-reporters',       '1.1.14'
   gem 'guard',                    '2.13.0'
@@ -30,7 +37,7 @@ group :test do
 end
 
 group :production do
-  gem 'pg', '0.20.0'
+ gem 'pg', '1.1.4'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
