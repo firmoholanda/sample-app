@@ -5,6 +5,8 @@ This is the sample application for
 Learn Web Development with Rails*](https://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
+The Ruby on Rails Tutorial is designed to give you a thorough introduction to web application development, including a basic grounding in Ruby, Rails, HTML & CSS, databases, version control, testing, and deployment—sufficient to launch you on a career as a web developer or technology entrepreneur.
+
 ## License
 
 All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
