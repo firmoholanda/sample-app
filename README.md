@@ -21,7 +21,7 @@ this project can be found in https://github.com/firmoholanda/sample-app
 
 
 
-## 🚀 instructions
+## 🔨 instructions
 
 To get started with the app, clone the repo and then install the needed gems:
 
