@@ -1,19 +1,27 @@
-# Ruby on Rails Tutorial sample application
+# 📃 sample-app (ruby on rails tutorial sample application)
 
-This is the sample application for
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](https://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+the Ruby on Rails Tutorial is designed to give you a thorough introduction to web application development, including a basic grounding in Ruby, Rails, HTML & CSS, databases, version control, testing, and deployment—sufficient to launch you on a career as a web developer or technology entrepreneur.
 
-The Ruby on Rails Tutorial is designed to give you a thorough introduction to web application development, including a basic grounding in Ruby, Rails, HTML & CSS, databases, version control, testing, and deployment—sufficient to launch you on a career as a web developer or technology entrepreneur.
 
-## License
 
-All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
-is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE.md) for details.
+## 📡 technologies used
 
-## Getting started
+- ruby
+- rest-client
+- nokogiri
+- git
+
+ruby, rest-client api, nokogiri for parsing and git was used on this project.
+
+
+
+## 🚀 the project
+
+this project can be found in https://github.com/firmoholanda/sample-app
+
+
+
+## 🚀 instructions
 
 To get started with the app, clone the repo and then install the needed gems:
 
@@ -39,5 +47,32 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
-For more information, see the
-[*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
+
+
+## 🤝 contributing
+
+contributions, issues, and feature requests are welcome!<br/>feel free to check [issues page](https://github.com/firmoholanda/rest-client/development/issues).
+
+1. fork it (https://github.com/firmoholanda/sample-app/development/fork)
+2. create your working branch (git checkout -b [choose-a-name])
+3. commit your changes (git commit -am 'what this commit will fix/add/improve')
+4. push to the branch (git push origin [chosen-name])
+5. create a new pull request
+
+
+
+## 🤖 contributor
+
+firmo holanda - [GitHub](https://github.com/firmoholanda)
+
+
+
+## 🙋‍♂ show your support
+
+give a ⭐️ if you like this project!
+
+
+
+## 📝 license
+
+this project is [MIT](https://github.com/firmoholanda/sample-app/development/license.txt) licensed.
