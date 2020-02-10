@@ -1,3 +1,4 @@
 https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/advanced_login#sec-remember_me
 
-9.2
+chap
+10
