@@ -2,4 +2,3 @@ https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/advanced_login#se
 
 chap
 11.2.2
-test
