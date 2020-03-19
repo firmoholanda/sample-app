@@ -13,7 +13,7 @@ gem 'bcrypt', '>= 3.1.13'
 gem 'faker', '1.7.3'
 gem 'carrierwave',             '1.2.2'
 gem 'mini_magick',             '4.10.1'
-gem 'will_paginate',           '3.1.0'
+gem 'will_paginate',           '3.3.0'
 gem 'bootstrap-will_paginate', '1.0.0'
 
 gem 'uglifier', '>= 1.3.0'
