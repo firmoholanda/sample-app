@@ -23,7 +23,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 
 group :development, :test do
   gem 'sqlite3'
-  gem 'byebug',  '9.0.6', platform: :mri
+  gem 'byebug',  '11.1.1', platform: :mri
 end
 
 group :development do
