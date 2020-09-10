@@ -1,6 +1,6 @@
 # 📃 sample-app (ruby on rails tutorial sample application)
 
-the Ruby on Rails Tutorial is designed to give you a thorough introduction to web application development, including a basic grounding in Ruby, Rails, HTML & CSS, databases, version control, testing, and deployment—sufficient to launch you on a career as a web developer or technology entrepreneur.
+His is an ongoing project found in The Ruby on Rails Tutorial. It is designed to give you a thorough introduction to web application development, including a basic grounding in Ruby, Rails, HTML & CSS, databases, version control, testing, and deployment sufficient to launch you on a career as a web developer or technology entrepreneur.
 
 
 
